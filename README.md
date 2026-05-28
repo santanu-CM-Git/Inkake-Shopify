@@ -3,6 +3,22 @@
 ## Url
 https://inkake.com
 
+## Homepage Hero Section
+
+<img src="./Homepage-Hero-Section.png" width="100%" />
+
+## Mega Menu Customization
+
+<img src="./Mega-Menu-Customization.png" width="100%" />
+
+## Collection Page Variant Selection
+
+<img src="./Collection-Page-Variant-Selection.png" width="100%" />
+
+## Wallpaper Pricing Customization
+
+<img src="./Wallpaper-Pricing-Customization.png" width="100%" />
+
 ## Project Overview
 
 Inkake is a Shopify-based eCommerce website developed using the Dawn theme with Schema Version 11.0.0. The project involved heavy customization across multiple sections of the website to create a more unique and visually engaging shopping experience while still maintaining Shopify’s flexibility and ease of management.
