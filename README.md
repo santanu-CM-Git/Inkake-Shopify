@@ -19,6 +19,10 @@ https://inkake.com
 
 <img src="./Wallpaper-Pricing-Customization.png" width="100%" />
 
+## Razorpay Payment Integration
+
+<img src="./razor-pay-gateway.png" width="100%" />
+
 ## Project Overview
 
 Inkake is a Shopify-based eCommerce website developed using the Dawn theme with Schema Version 11.0.0. The project involved heavy customization across multiple sections of the website to create a more unique and visually engaging shopping experience while still maintaining Shopify’s flexibility and ease of management.
